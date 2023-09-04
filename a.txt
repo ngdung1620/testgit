@@ -1,1 +1,2 @@
 file a
+thực hiện việc thay đổi trên nhánh beta
